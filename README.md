@@ -32,11 +32,12 @@ Ejecutar el programa con:
 java Main
 ```
 ## Estructura del Repositorio
+- `programa/` → contiene el código fuente principal.  
+  - `main.java` → clase principal del proyecto.  
+- `.gitignore` → archivo para ignorar configuraciones locales.  
+- `Producto.java` → clase de ejemplo creada en la rama *feature*.  
+- `README.md` → documentación del proyecto.  
 
--   `src/` → contiene el código fuente.
--   `main.java` → clase principal del proyecto.
--   `Producto.java` → clase de ejemplo creada en la rama *feature*.\
--   `README.md` → documentación del proyecto.
 
 ## Documentación con Git
 
